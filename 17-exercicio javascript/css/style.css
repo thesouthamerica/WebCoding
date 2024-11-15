@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
